@@ -1,0 +1,5 @@
+G:\Users\K\Desktop\teetch\shopproject\tarpe22\TARpe22ShopVaitmaa\TARpe22ShopVaitmaa.SpaceshipTest\obj\Debug\net6.0\TARpe22ShopVaitmaa.SpaceshipTest.csproj.AssemblyReference.cache
+G:\Users\K\Desktop\teetch\shopproject\tarpe22\TARpe22ShopVaitmaa\TARpe22ShopVaitmaa.SpaceshipTest\obj\Debug\net6.0\TARpe22ShopVaitmaa.SpaceshipTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\K\Desktop\teetch\shopproject\tarpe22\TARpe22ShopVaitmaa\TARpe22ShopVaitmaa.SpaceshipTest\obj\Debug\net6.0\TARpe22ShopVaitmaa.SpaceshipTest.AssemblyInfoInputs.cache
+G:\Users\K\Desktop\teetch\shopproject\tarpe22\TARpe22ShopVaitmaa\TARpe22ShopVaitmaa.SpaceshipTest\obj\Debug\net6.0\TARpe22ShopVaitmaa.SpaceshipTest.AssemblyInfo.cs
+G:\Users\K\Desktop\teetch\shopproject\tarpe22\TARpe22ShopVaitmaa\TARpe22ShopVaitmaa.SpaceshipTest\obj\Debug\net6.0\TARpe22ShopVaitmaa.SpaceshipTest.csproj.CoreCompileInputs.cache
