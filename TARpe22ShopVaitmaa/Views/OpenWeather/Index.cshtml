@@ -1,0 +1,37 @@
+﻿@model TARpe22ShopVaitmaa.Models.OpenWeather.OpenWeatherViewModel
+
+<div class="container text-center">
+    <div class="row">
+        <label class="col-sm-2 col-form-label">Title</label>
+        @Html.DisplayFor(m => m.Title)
+    </div>
+    <div class="row">
+        <label class="col-sm-2 col-form-label">Description</label>
+        @Html.DisplayFor(m => m.Description)
+    </div>
+    <div class="row">
+        <label class="col-sm-2 col-form-label">Temperature</label>
+        @Html.DisplayFor(m => m.Temp)C
+        <p class="col-sm-2 col-form-label">Feels like @(Model.FeltTemp)C</p>
+    </div>
+    <div class="row">
+        <label class="col-sm-2 col-form-label">Minimum temperature</label>
+        @Html.DisplayFor(m => m.TempMin)C
+    </div>
+    <div class="row">
+        <label class="col-sm-2 col-form-label">Maximum temperature</label>
+        @Html.DisplayFor(m => m.TempMax)C
+    </div>
+    <div class="row">
+        <label class="col-sm-2 col-form-label">Air pressure</label>
+        @Html.DisplayFor(m => m.Pressure)
+    </div>
+    <div class="row">
+        <label class="col-sm-2 col-form-label">Humidity</label>
+        @Html.DisplayFor(m => m.Humidity)
+    </div>
+    <div class="row">
+        <label class="col-sm-2 col-form-label">Wind speed</label>
+        @Html.DisplayFor(m => m.WindSpeed)
+    </div>
+</div>

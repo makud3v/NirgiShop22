@@ -8353,11 +8353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
+      "projectUniqueName": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
       "projectName": "TARpe22ShopVaitmaa.ApplicationServices",
-      "projectPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
+      "projectPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
       "packagesPath": "C:\\Users\\makud3v\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\obj\\",
+      "outputPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22Shop.ApplicationServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\makud3v\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8374,8 +8374,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
-              "projectPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj"
+            "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
+              "projectPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nhEjDTi3HxS8nNU2IWXyV5j1eeavS3RohTMNRppc7Wxl+yiz0oP30FDJsrrxa6SME+ObNk/6XVhVm22Wm6V5VA==",
+  "dgSpecHash": "kbJ5FW0atbzso/uciranOvY9d5q9X/4w/Ww7yYmWSAVdWTwscryNYQwpz0XCjdQ/2p0PR0MmcjOVzu6r/2KDeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj",
+  "projectFilePath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\makud3v\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\makud3v\\.nuget\\packages\\mailkit\\4.3.0\\mailkit.4.3.0.nupkg.sha512",

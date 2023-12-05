@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1u/dwbXf+O9qYw/MRkPIPbDA3G/Xqbhf+BRVUctMRzfHn/rrEojBYlhZcHKviiOzlT6nSbJbf+WBoTwQ9881Zg==",
+  "dgSpecHash": "uTkyM6U8BRxflUMNQ/mzvDqmaT79NRj6x6bR9EzDHQOHTCwnCMuORc7FsAIrX5Kb91T7mJbtGQp9iPLlFpioDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj",
+  "projectFilePath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\makud3v\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\makud3v\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

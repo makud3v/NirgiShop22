@@ -502,11 +502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
+      "projectUniqueName": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
       "projectName": "TARpe22ShopVaitmaa.Core",
-      "projectPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
+      "projectPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
       "packagesPath": "C:\\Users\\makud3v\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\obj\\",
+      "outputPath": "C:\\Users\\makud3v\\Development\\Coding\\Projects\\Web\\NirgiShop22\\TARpe22Shop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\makud3v\\AppData\\Roaming\\NuGet\\NuGet.Config",
